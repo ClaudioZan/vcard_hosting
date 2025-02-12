@@ -6,10 +6,8 @@ ORG:Lightlink Instruments AG
 TITLE:CTO & Co-Founder
 TEL;CELL:+41763795980
 EMAIL:claudio.zanobini@lightlink.ch
-# Work Website
 URL;TYPE=WORK:www.lightlinkinstruments.com
 ADR;WORK:;;Lerchenfeldstrasse 3;9014;St. Gallen;Switzerland
-# LinkedIn Profile (Ensures Maximum Compatibility)
 URL:https://www.linkedin.com/in/claudio-zanobini-566804155/
 item1.X-ABLabel:LinkedIn
 END:VCARD
