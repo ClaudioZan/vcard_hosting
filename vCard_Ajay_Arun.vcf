@@ -6,7 +6,10 @@ ORG:Lightlink Instruments AG
 TITLE:CEO & Founder
 TEL;CELL:+41772611839
 EMAIL:ajay.arun@lightlink.ch
-URL:www.lightlinkinstruments.com
+# Work Website
+URL;TYPE=WORK:www.lightlinkinstruments.com
 ADR;WORK:;;Lerchenfeldstrasse 3;9014;St. Gallen;Switzerland
-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/dr-ajay-arun-1152941aa/
+# LinkedIn Profile (Ensures Maximum Compatibility)
+URL:https://www.linkedin.com/in/dr-ajay-arun-1152941aa/
+item1.X-ABLabel:LinkedIn
 END:VCARD
