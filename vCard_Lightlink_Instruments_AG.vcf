@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+ORG:Lightlink Instruments AG
+EMAIL:contact@lightlink.ch
+URL;TYPE=WORK:www.lightlinkinstruments.com
+ADR;WORK:;;Lerchenfeldstrasse 3;9014;St. Gallen;Switzerland
+URL:https://www.linkedin.com/company/lightlink-instruments-ag/
+item1.X-ABLabel:LinkedIn
+END:VCARD
